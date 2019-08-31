@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Guia2</string>
+    <string name="Texto1">Ingrese sus datos:</string>
+    <string name="Texto2">Ingrese su fruta preferida</string>
+    <string name="Texto3">Ingrese su animal preferido</string>
+    <string name="Texto4">Ingrese su lenguaje preferido</string>
+    <string name="contraseña">Contraseña</string>
+    <string name="iniciar">Iniciar Sesion</string>
+    <string name="ejecorreo">Correo Electronico</string>
+    <string name="ejefruta">Ejemplo: Anona</string>
+    <string name="ejeanimal">Ejemplo: Raton</string>
+    <string name="correo">Ingrese su Correo</string>
+    <string name="ejelenguaje">Ejemplo: Java</string>
+    <string name="procesar">Procesar</string>
+</resources>
